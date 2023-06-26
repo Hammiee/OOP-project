@@ -9,7 +9,6 @@ Implementation of a game based on Monopoly
 
 ## Order of actions during player's turn
 
-* If in jail, can use "free from the jail" card
 * Throw the dice
     * move the indicated distance
         * collect $200 if land on or pass Go
