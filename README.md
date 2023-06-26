@@ -21,10 +21,12 @@ Implementation of a game based on Monopoly
         * resolve as indicated
         * collect $200 if resolving puts you passing Go
 * Property actions
-    * buy/sell houses/hotels
+    * sell houses/hotels
+    * sell your property (must be unbuilt!)
     * mortage property (must be unbuilt!)
-    * sell/trade your property (must be unbuilt!)
     * unmortage property
+    * build on your property
+    * surrender
 
 ## My Monopoly game consists of the following classes
 - Game
