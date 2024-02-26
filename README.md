@@ -7,6 +7,8 @@ Implementation of a game based on Monopoly
 * Consist of simplified monopoly board (utilities fields are replaced with draw-card fields)
 * Building, mortgaging and selling is done at the end of the player' turn
 
+![alt text](https://github.com/Hammiee/OOP-project/blob/main/myBoard.jpg?raw=true)
+
 ## Order of actions during player's turn
 
 * Throw the dice
